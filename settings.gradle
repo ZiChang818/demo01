@@ -1,2 +1,6 @@
 include ':app'
+<<<<<<< HEAD
 rootProject.name = "demo01"
+=======
+rootProject.name = "test"
+>>>>>>> ca59072... commit

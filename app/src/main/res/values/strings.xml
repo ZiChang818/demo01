@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">demo01</string>
+=======
+    <string name="app_name">test</string>
+>>>>>>> ca59072... commit
 </resources>
